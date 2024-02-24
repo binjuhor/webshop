@@ -18,14 +18,6 @@ For this project, I will build a web store from scratch using Laravel and Livewi
 5. Setup a working email driver like Mailtrap
 6. Run `valet link` to link the application to valet
 
-## Feature
-
-- User can create a topic
-- User can reply to a topic
-- User can view all topics
-- User can view a single topic
-- User can view all replies to a topic
-
 ## Techstack
 
 - Laravel 10.x
